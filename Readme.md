@@ -27,6 +27,8 @@ We **deployed the trained model** as a live, interactive web demo using Gradio. 
 
 You can access the live demo on Hugging Face Spaces. Simply enter a news headline and click "Classify". The app will provide the predicted category and its confidence score.
 
+* [ Deployment](https://12455162c1d8801075.gradio.live/)
+
 **Example headlines:**
 * `Apple unveils new AI-powered iPhone with improved camera`
 * `Local team wins championship with last-second shot`
